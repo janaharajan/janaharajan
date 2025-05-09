@@ -14,5 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<marquee><h1>console.log("hello word👋 im janaharajan")</h1>
+<marquee>
 </marquee>
+<marquee>
+<h1>console.log("hello word👋 im janaharajan")</h1></marquee>
