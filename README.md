@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 <marquee>
 </marquee>
 <marquee>
-<h1 style ="background-color=red">console.log("hello word👋 im janaharajan")</h1></marquee>
+    <h1 style="background-color: red;">Hello, World 👋 I'm Janaharajan</h1>
